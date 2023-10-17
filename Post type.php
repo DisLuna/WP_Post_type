@@ -47,7 +47,7 @@ function wayup_register_custom_post_type()
 	);
 
 	register_post_type(
-		'service',
+		'news',
 		array(
 			'labels' => array(
 				'name' => 'Новости',
